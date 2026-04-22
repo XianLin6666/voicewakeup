@@ -1,4 +1,11 @@
 data/
 .idea/
+.vscode/
 __pycache__/
 *.pyc
+*.pth
+*.onnx
+*.png
+*.wav
+*.tar.gz
+.DS_Store
